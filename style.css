@@ -3,3 +3,9 @@ body {
     font-family: monospace;
     color: aliceblue;
 }
+
+h1 {
+    margin: 250px;
+    text-align: center;
+    font-weight: 100;
+}
